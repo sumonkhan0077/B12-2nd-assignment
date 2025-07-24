@@ -329,6 +329,10 @@ ul li:first-child a {
     }
     .plants-gallery-text h1 {
         padding-left: 0;
+        font-size: 2rem;
+    }
+    .plants-gallery-text h1 br {
+        display: none;
     }
     .plants-gallery-text ul {
         padding-left: 0;
